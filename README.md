@@ -1,4 +1,4 @@
-# IBM-COURSERA-Machine-Learning-with-Python
+# IBM-COURSERA [Machine Learning with Python]
 
 ## Machine Learning with Python final assignment
 
