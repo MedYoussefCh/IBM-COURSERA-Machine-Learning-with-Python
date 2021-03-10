@@ -7,7 +7,7 @@
 - Building model using SVM and find the accuracy evaluation 
 - Building model using Logistic Regression and find the accuracy evaluation
 
-This Jupyter Notebook is a hands-on project performed during the data analysis course by IBM/Coursera.
+This Jupyter Notebook is a hands-on project performed during the Machine Learning with Python course by IBM/Coursera.
 
 ### Prerequisites
 - Jupyter Notebook
